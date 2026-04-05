@@ -11,8 +11,6 @@
 
 This project analyses 70+ years of daily temperature data across 5 major Indian cities — **Delhi, Mumbai, Bengaluru, Chennai and Kolkata** — to detect climate change signals and model temperature patterns using the ARMA (AutoRegressive Moving Average) model.
 
-Built as part of the **Stochastic Processes and Applications (STPA)** course at NMIMS.
-
 ---
 
 ## Cities and Dataset
